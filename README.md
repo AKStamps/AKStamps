@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AKStamps
-- 👀 I’m interested in ... learning JavaScript and Python launguages and GPIO applications
-- 🌱 I’m currently learning ... Javascript Basics
-- 💞️ I’m looking to collaborate on ... Web Deleopment basics and creating a program to control a hydroelectric system I am building for my home
+- 👀 I’m interested in ... learning JavaScript, HTML and CSS laguages in order to get my feet wet in web development
+- 🌱 I’m currently learning ... HTML basics and Git commands
+- 💞️ I’m looking to collaborate on ... Web Deleopment basics and creating funtional webpages
 - 📫 How to reach me ... Private Message or Email
 
 <!---
